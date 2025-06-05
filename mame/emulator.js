@@ -1739,7 +1739,7 @@ var EJS = function (_0x494315) {
         'messageOrigin': 'https://www.emulatorjs.com',
         'embedGameUrl': 'game.html',
         'embedContentUrl': 'content.html?ver=2',
-        'loadUrl': '../load.html',
+        'loadUrl': 'load.html',
         'scriptKey': 'emulator.js',
         'styleFile': 'emulatorjs.css',
         'versionUrl': 'cores/{name}.json',
