@@ -27,6 +27,7 @@
         const gameFile = params.get("game");
 
         if (gameFile){ 
+            // github를 https://www.jsdelivr.com/github로 cdn으로 전환 시 File size exceeded the configured limit of 20 MB.
             const romPath = `https://cdn.jsdelivr.net/gh/coarouki/roms@main/${gameFile}.zip`;  // zip 확장자는 내부에서 붙임        
 
             var EJS_DEBUG_ = false;
