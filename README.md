@@ -1,7 +1,7 @@
 # mameJS
 
 ## 원본
-Latest hosted on the [original](https://github.com/nenge123/emulatorjs).
+Latest hosted on the [https://github.com/nenge123/emulatorjs](https://github.com/nenge123/emulatorjs).
 
 ## 수정
    - 광고 삭제.
