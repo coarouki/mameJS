@@ -27,8 +27,7 @@
         const gameFile = params.get("game");
 
         if (gameFile){ 
-            const romPath = `../roms/${gameFile}.zip`;  // zip 확장자는 내부에서 붙임
-        
+            const romPath = `https://cdn.jsdelivr.net/gh/coarouki/roms@main/${gameFile}.zip`;  // zip 확장자는 내부에서 붙임        
 
             var EJS_DEBUG_ = false;
             var EJS_EMU = new EJS('#game',{
